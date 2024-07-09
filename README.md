@@ -9,6 +9,7 @@ This paper proposes a novel end-to-end refocus-free variable E-SAI de-occlusion 
 approach REDIR, which can align the global and local features of the variable event data and effectively achieve high-resolution imaging of pure event streams.
 To further improve the reconstruction of the occluded target, we propose a perceptual mask-gated connection module to interlink information between modules, and
 incorporate a spatial-temporal attention mechanism into the SNN block to enhance target extraction ability of the model. (ps: the code's network structure is slightly different from our ECCV paper.)
+
 <p align="center">
 <img src="img/REDIR_Architecture.png" height="350">
 </p>
