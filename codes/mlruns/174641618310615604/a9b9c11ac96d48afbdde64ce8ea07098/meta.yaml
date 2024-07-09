@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lihuan/Desktop/%E5%AD%A6%E4%B9%A0%E6%96%87%E4%BB%B6/%E4%BB%A3%E7%A0%81/E-SAI-main/codes/mlruns/174641618310615604/a9b9c11ac96d48afbdde64ce8ea07098/artifacts
+end_time: 1693557173720
+entry_point_name: ''
+experiment_id: '174641618310615604'
+lifecycle_stage: active
+run_id: a9b9c11ac96d48afbdde64ce8ea07098
+run_name: marvelous-goose-670
+run_uuid: a9b9c11ac96d48afbdde64ce8ea07098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693557173481
+status: 3
+tags: []
+user_id: lihuan
