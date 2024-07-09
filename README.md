@@ -17,7 +17,7 @@ method on our newly introduced V-ESAI dataset, which obviates the reliance
 on prior knowledge and extends the applicability of SAI acquisition methods by
 incorporating focus changes, lens rotations, and non-uniform motion.
 
-<src="VERE-Net-Archicture.pdf" height="200">
+<img src="VERE-Net-Archicture.pdf" height="200">
 
 ## V-ESAI Dataset 
 https://drive.google.com/file/d/1Sx_pikaAg--ix6W1_AdNzsVa4rRZovXF/view?usp=drive_link
